@@ -4,11 +4,11 @@
 
   <groupId>com.github.jitpack</groupId>
   <artifactId>JSPlayerSDK.android</artifactId>
-  <version>2.1.11.4</version>
+  <version>2.1.11.6</version>
   <packaging>aar</packaging>
 
   <name>JSPlayerSDK for android</name>
-  <url>https://jitpack.io/#jitpack/JSPlayerSDK.android/2.1.11.4</url>
+  <url>https://jitpack.io/#jitpack/JSPlayerSDK.android/2.1.11.6</url>
   <build>
     <plugins>
         <plugin>       
