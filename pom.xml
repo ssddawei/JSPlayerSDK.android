@@ -1,0 +1,12 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.github.jitpack</groupId>
+  <artifactId>JSPlayerSDK.android</artifactId>
+  <version>2.1.11.4</version>
+  <packaging>aar</packaging>
+
+  <name>JSPlayerSDK for android</name>
+  <url>https://jitpack.io/#jitpack/JSPlayerSDK.android/2.1.11.4</url>
+</project>
