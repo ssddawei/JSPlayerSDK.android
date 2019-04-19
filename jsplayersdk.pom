@@ -4,7 +4,7 @@
   4   <modelVersion>4.0.0</modelVersion>                                                                                                                                          
   5   <groupId>com.github.jitpack</groupId>                                                                                                                                       
   6   <artifactId>JSPlayerSDK.android</artifactId>                                                                                                                                            
-  7   <version>2.1.11.7</version>                                                                                                                                                      
+  7   <version>2.1.11.8</version>                                                                                                                                                      
   8   <dependencies>                                                                                                                                                              
   9     <dependency>                                                                                                                                                              
  10       <groupId>com.android.support</groupId>                                                                                                                                  
