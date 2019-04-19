@@ -4,5 +4,12 @@
     <modelVersion>4.0.0</modelVersion>                                                                                                                                            
     <groupId>com.github.jitpack</groupId>                                                                                                                                       
     <artifactId>JSPlayerSDK.android</artifactId>       
-    <packaging>aar</packaging>                                                                                                                                     
+    <packaging>aar</packaging>      
+    <dependencies>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.7</version>
+        </dependency>
+    </dependencies>                                                                                                                           
               
