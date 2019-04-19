@@ -4,5 +4,5 @@
     <modelVersion>4.0.0</modelVersion>                                                                                                                                            
     <groupId>com.github.jitpack</groupId>                                                                                                                                       
     <artifactId>JSPlayerSDK.android</artifactId>       
-    <packging>aar</packging>                                                                                                                                     
+    <packaging>aar</packaging>                                                                                                                                     
               
