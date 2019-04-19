@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>                                                                                                                                        
-  2 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"                         
-  3     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">                                                                                                                    
-  4   <modelVersion>4.0.0</modelVersion>                                                                                                                                          
-  5   <groupId>com.github.jitpack</groupId>                                                                                                                                       
-  6   <artifactId>JSPlayerSDK.android</artifactId>                                                                                                                                            
-  7   <version>2.1.11.8</version>                                                                                                                                                      
-  8   <dependencies>                                                                                                                                                              
-  9     <dependency>                                                                                                                                                              
- 10       <groupId>com.android.support</groupId>                                                                                                                                  
- 11       <artifactId>appcompat-v7</artifactId>                                                                                                                                   
- 12       <version>28.0.0-rc01</version>                                                                                                                                          
- 13       <scope>runtime</scope>                                                                                                                                                  
- 14     </dependency>                                                                                                                                                             
- 27   </dependencies>                                                                                                                                                             
- 28 </project>           
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"                         
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">                                                                                                                    
+    <modelVersion>4.0.0</modelVersion>                                                                                                                                            
+    <groupId>com.github.jitpack</groupId>                                                                                                                                       
+    <artifactId>JSPlayerSDK.android</artifactId>                                                                                                                                            
+    <version>2.1.11.9</version>                                                                                                                                                      
+    <dependencies>                                                                                                                                                              
+        <dependency>                                                                                                                                                              
+            <groupId>com.android.support</groupId>                                                                                                                                  
+            <artifactId>appcompat-v7</artifactId>                                                                                                                                   
+            <version>28.0.0-rc01</version>                                                                                                                                          
+            <scope>runtime</scope>                                                                                                                                                  
+        </dependency>                                                                                                                                                             
+    </dependencies>                                                                                                                                                             
+</project>           
