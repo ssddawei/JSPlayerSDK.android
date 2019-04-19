@@ -4,9 +4,11 @@ before_install:
    - echo ./custom_setup.sh
 install:
    - echo "Running a custom install command"
+   - echo "VERSION:${version}"
    - mkdir -p ~/.m2/repository/com/github/jitpack/JSPlayerSDK.android/${VERSION}
    - cp jsplayersdk.aar ~/.m2/repository/com/github/jitpack/JSPlayerSDK.android/${VERSION}/JSPlayerSDK.android-${VERSION}.aar 
+   - echo "<version>${VERSION}</version></project>" >> jsplayersdk.pom
    - cp jsplayersdk.pom ~/.m2/repository/com/github/jitpack/JSPlayerSDK.android/${VERSION}/JSPlayerSDK.android-${VERSION}.pom
-   - echo "<version>${VERSION}</version></project>" >> ~/.m2/repository/com/github/jitpack/JSPlayerSDK.android/${VERSION}/JSPlayerSDK.android-${VERSION}.pom
+
 env:
    MYVAR: "custom environment variable"
