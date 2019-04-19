@@ -1,9 +1,10 @@
 jdk:
   - openjdk9
 before_install:
-   - ./custom_setup.sh
+   - echo ./custom_setup.sh
 install:
    - echo "Running a custom install command"
+   - mkdir -p ~/.m2/repository/
    - cp *.aar ~/.m2/repository/
 env:
    MYVAR: "custom environment variable"
